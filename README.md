@@ -11,7 +11,7 @@ npm run dev
 ## Pour la lecture des fichiers
 
 ```bash
-	cd back
-	node Async.js
-	node Sync.js
+cd back
+node Async.js
+node Sync.js
 ```
